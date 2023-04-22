@@ -1,0 +1,18 @@
+.faq-section {
+    background-color: #f5f5f5;
+    padding: 50px 0;
+  }
+  
+  .faq-section h2 {
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  
+  .card-header {
+    background-color: #fff;
+  }
+  
+  .card-body {
+    font-size: 18px;
+  }
+  

@@ -1,0 +1,27 @@
+.contact-section {
+    text-align: center;
+    margin: 50px 0;
+  }
+  
+  .contact-section h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  .contact-icons {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .contact-icons a {
+    display: inline-block;
+    margin: 0 15px;
+    color: #666;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .contact-icons a:hover {
+    color: #222;
+    transform: translateY(-5px);
+  }
+  
